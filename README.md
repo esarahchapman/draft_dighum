@@ -1,11 +1,14 @@
 
-# Tonal Representation in Jane Austen's Pride and Predjudice 
+# Tonal Representation in Jane Austen's Pride and Prejudice 
 
 ![title](https://www.gutenberg.org/cache/epub/1342/pg1342.cover.medium.jpg)
 
-Author: [Sarah Chapman](https://www.linkedin.com/in/esarahchapman/)
+Author of Project: [Sarah Chapman](https://www.linkedin.com/in/esarahchapman/)
 
-A Note: To run this yourself, download the text of *Pride and Prejudice* from [here](https://www.gutenberg.org/ebooks/1342), and run the processes laid out in the code file. You can also download the text file from the repository; whichever you prefer!
+A Note: To run this yourself, download the text of *Pride and Prejudice* from [here](https://www.gutenberg.org/ebooks/1342), and run the processes laid out in the code file. You can also download the text file from the repository: whichever you prefer!
+
+## Leading Research Question:
+**To what extent are positive, neutral, or negative adjectives mentioned in Pride and Prejudice, and what does this signal about tone?**
 
 ## Abstract
 *Pride and Prejudice* is Jane Austen’s second novel. It follows the character of Elizabeth Bennett, the second eldest daughter of the Bennett family. The Bennett family consists of Mr. and Mrs. Bennett and their five daughters; as their property can only pass to a male heir, the novel focuses on the family’s pressing need for at least one of their daughters to marry and marry well. 
@@ -16,9 +19,6 @@ This project intends to focus on the tone of *Pride and Prejudice* and considers
 
 By analyzing the frequency of adjectives with positive, neutral, or negative connotations, a data-based visualization of the emotive direction in which the tone trends will emerge. This will provide insight into Austen’s use of language, as the descriptive nature of adjectives and their place as language modifiers means their impact on the story creates a particular tone. Essentially, by clearly sorting and visualizing these adjectives, the project will be able to focus on literal language usage, specifically adjectives, to analyze whether or not the ‘happy-ever-after marriage’ within *Pride and Prejudice* has tonal precedent.
 
-### Leading Research Question:
-**To what extent are positive, neutral, or negative adjectives mentioned in Pride and Prejudice, and what does this signal about tone?**
-
 ### The structure of this GitHub repository is as follows:
 
 ### Files
@@ -27,4 +27,4 @@ By analyzing the frequency of adjectives with positive, neutral, or negative con
 
 - **pnp-final-notebook.txt**  Jupyter Notebook file.
 
-- **pnp-text.txt**  Text of *Pride and Prejudice* from Project Gutenburg, in utf-8-sig format, with a deleted introduction, and deleted legal statements.
+- **pnp-text.txt**  Text of *Pride and Prejudice* from Project Gutenburg, in utf-8-sig format, with a deleted introduction and deleted legal statements.
