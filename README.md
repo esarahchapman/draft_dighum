@@ -10,7 +10,7 @@ A Note: To run this yourself, download the text of *Pride and Prejudice* from [h
 ## Leading Research Question:
 **To what extent are positive, neutral, or negative adjectives mentioned in Pride and Prejudice, and what does this signal about tone?**
 
-## Abstract
+## Abstract:
 *Pride and Prejudice* is Jane Austen’s second novel. It follows the character of Elizabeth Bennett, the second eldest daughter of the Bennett family. The Bennett family consists of Mr. and Mrs. Bennett and their five daughters; as their property can only pass to a male heir, the novel focuses on the family’s pressing need for at least one of their daughters to marry and marry well. 
 
 In addition to the focus on Elizabeth Bennett, the novel centers on her love interest, Mr. Fitzwilliam Darcy, an intelligent, handsome, and very wealthy man. As a source of dramatic tension, the urgent need for a Bennett daughter to marry clashes with the fact that Darcy’s traits of pridefulness and arrogance dissuade Elizabeth, who is prejudiced against him from the start, from any thoughts of marriage. However, Darcy’s pride and bad manners provide Elizabeth the opportunity to “transform apparent hostility into lasting commitment and a happy-ever-after marriage.” This happy ending provides, upon first glance, an indication that the tone of the novel would sway toward the positive.
@@ -19,7 +19,7 @@ This project intends to focus on the tone of *Pride and Prejudice* and considers
 
 By analyzing the frequency of adjectives with positive, neutral, or negative connotations, a data-based visualization of the emotive direction in which the tone trends will emerge. This will provide insight into Austen’s use of language, as the descriptive nature of adjectives and their place as language modifiers means their impact on the story creates a particular tone. Essentially, by clearly sorting and visualizing these adjectives, the project will be able to focus on literal language usage, specifically adjectives, to analyze whether or not the ‘happy-ever-after marriage’ within *Pride and Prejudice* has tonal precedent.
 
-### The structure of this GitHub repository is as follows:
+## The structure of this GitHub repository is as follows:
 
 ### Files
 
