@@ -25,6 +25,6 @@ By analyzing the frequency of adjectives with positive, neutral, or negative con
 
 - **README.md**  Contains the text on this page.
 
-- **pnp-final-notebook.txt**  Jupyter Notebook file.
+- **pnp-final-notebook.ipynb**  Jupyter Notebook file.
 
 - **pnp-text.txt**  Text of *Pride and Prejudice* from Project Gutenburg, in utf-8-sig format, with a deleted introduction and deleted legal statements.
